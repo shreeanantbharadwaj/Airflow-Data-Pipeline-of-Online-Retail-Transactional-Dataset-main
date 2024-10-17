@@ -28,7 +28,7 @@ This project implements an end-to-end data pipeline for analyzing transactions f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HemantDeshmukh026/Airflow-Data-Pipeline-of-Online-Retail-Transactional-Dataset.git
+   git clone https://github.com/shreeanantbharadwaj/Airflow-Data-Pipeline-of-Online-Retail-Transactional-Dataset-main
 
 2. Set up your Airflow environment and dependencies.
 
